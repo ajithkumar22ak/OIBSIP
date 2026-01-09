@@ -35,3 +35,4 @@ for ch in password_list:
     password += ch
 print("\n✅ Your Generated Password is:",password)
 
+
