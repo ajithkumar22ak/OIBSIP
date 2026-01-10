@@ -22,3 +22,6 @@ BMI = weight / (height × height)
 3. Run the program:
    ```bash
    python bmi_calculator.py
+   ##Author
+   Ajithkumar V
+   
