@@ -33,3 +33,5 @@ The program generates strong and secure passwords based on user-defined preferen
 
 ## 🔐 Output
 The program displays a randomly generated secure password based on the selected criteria.
+## Author 
+ Ajithkumar 
