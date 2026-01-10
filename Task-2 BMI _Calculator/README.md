@@ -20,8 +20,9 @@ BMI = weight / (height × height)
 1. Download the file
 2. Open terminal or command prompt
 3. Run the program:
+## Author
+   Ajithkumar V
    ```bash
    python bmi_calculator.py
-   ##Author
-   Ajithkumar V
+   
    
